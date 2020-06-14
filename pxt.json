@@ -1,0 +1,21 @@
+{
+    "name": "City dungeon",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "story": "github:riknoll/arcade-story#v1.1.2",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
